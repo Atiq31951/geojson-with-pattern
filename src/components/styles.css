@@ -1,0 +1,21 @@
+.custom-pattern {
+  stroke-width: 3; /* Pattern stroke width */
+  stroke: red; /* Pattern stroke color */
+  fill: url(./pattern.svg);
+   /* URL reference to the pattern */
+  stroke-dasharray: 10;
+}
+
+/* SVG pattern definition */
+.custom-pattern svg {
+  height: 100%;
+  width: 100%;
+}
+
+.custom-pattern rect {
+  fill: red; /* Pattern color */
+}
+
+.pattern-fill {
+  fill: url("./pattern.svg");
+}
