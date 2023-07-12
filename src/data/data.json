@@ -1567,7 +1567,7 @@
                 ]
             },
             "properties": {
-                "class": "myFeatureClass",
+                "class": "myPattern-2",
                 "ID": "LOCSECOUNTYBLEKINGE",
                 "NAME": "Blekinge",
                 "center": [
@@ -4091,7 +4091,7 @@
                 ]
             },
             "properties": {
-                "class": "myFeatureClass",
+                "class": "myPattern-2",
                 "ID": "LOCSECOUNTYGOTLAND",
                 "NAME": "Gotland",
                 "center": [
@@ -6735,7 +6735,7 @@
                 ]
             },
             "properties": {
-                "class": "myFeatureClass",
+                "class": "myPattern-2",
                 "ID": "LOCSECOUNTYJÖNKÖPING",
                 "NAME": "Jönköping",
                 "center": [
@@ -11127,7 +11127,7 @@
                 ]
             },
             "properties": {
-                "class": "myFeatureClass",
+                "class": "myPattern-2",
                 "ID": "LOCSECOUNTYNORRBOTTEN",
                 "NAME": "Norrbotten",
                 "center": [
